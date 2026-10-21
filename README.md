@@ -167,4 +167,6 @@ docs/screenshots/       # 界面截图
 
 ## 📄 许可 / License
 
-本项目仅供学习与求职展示使用。*This project is for learning and portfolio demonstration purposes.*
+本项目代码采用 [MIT License](LICENSE) 开源。*This project is open-sourced under the [MIT License](LICENSE).*
+
+> ⚠️ 第三方组件（如 YOLOv8、fast-plate-ocr 等）遵循其各自的许可证。*Third-party components (e.g. YOLOv8, fast-plate-ocr) are subject to their own licenses.*
