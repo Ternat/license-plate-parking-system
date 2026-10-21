@@ -1,9 +1,7 @@
 ============================================================
 Car License Plate Recognition Smart Parking System
 Student: Li Wenhao
-Student ID: 50087574
 University: University of Aberdeen
-Submission Date: 2026.04.21
 ============================================================
 
 

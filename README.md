@@ -161,7 +161,7 @@ docs/screenshots/       # 界面截图
 
 **Li Wenhao** · [University of Aberdeen](https://www.abdn.ac.uk/)
 
-> 📫 联系方式 / Contact：`email@example.com` · [GitHub](https://github.com/yourname) · [LinkedIn](https://linkedin.com/in/yourname)
+> 📫 联系方式 / Contact：[13798873528@163.com](mailto:13798873528@163.com) · [GitHub](https://github.com/Ternat) · [LinkedIn](https://linkedin.com/in/wenhao-li-4b9769437)
 
 ---
 
