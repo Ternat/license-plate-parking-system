@@ -1,4 +1,4 @@
-# 🚗 车牌识别智能停车系统
+# 车牌识别智能停车系统
 # License Plate Recognition Smart Parking System
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## 📖 项目简介 / Overview
+## 项目简介 / Overview
 
 本项目是一套**车牌识别智能停车管理系统**，通过 **YOLOv8 目标检测 + OCR** 实现车辆车牌的自动定位与识别，并提供完整的停车业务流程：车辆入场登记、出场计费、历史记录查询、费率管理等功能。
 
@@ -33,21 +33,21 @@
 
 ---
 
-## ✨ 功能特性 / Features
+## 功能特性 / Features
 
 | 功能 Feature | 说明 Description |
 | --- | --- |
-| 🔐 管理员登录 | 基于 JWT 的身份认证，后端密码哈希存储 |
-| 📸 车辆入场 | 上传车辆图片，自动检测并识别车牌，登记入场时间 |
-| 🚗 车辆出场 | 上传出场图片，匹配车牌并自动计算停车时长与费用 |
-| 🧮 计费规则 | 前 2 小时免费，之后 5.0 / 小时（可在后台配置） |
-| 📋 记录查询 | 历史停车记录支持搜索、筛选与导出 |
-| ⚙️ 费率管理 | 后台动态调整小时费率 |
-| 🧪 识别测试 | 独立识别页面，直接测试 ALPR 流水线而不产生停车记录 |
+| 管理员登录 | 基于 JWT 的身份认证，后端密码哈希存储 |
+| 车辆入场 | 上传车辆图片，自动检测并识别车牌，登记入场时间 |
+| 车辆出场 | 上传出场图片，匹配车牌并自动计算停车时长与费用 |
+| 计费规则 | 前 2 小时免费，之后 5.0 / 小时（可在后台配置） |
+| 记录查询 | 历史停车记录支持搜索、筛选与导出 |
+| 费率管理 | 后台动态调整小时费率 |
+| 识别测试 | 独立识别页面，直接测试 ALPR 流水线而不产生停车记录 |
 
 ---
 
-## 🖼️ 界面预览 / Screenshots
+## 界面预览 / Screenshots
 
 ### 登录 / Login
 ![Login](docs/screenshots/login.png)
@@ -69,7 +69,7 @@
 
 ---
 
-## 🛠️ 技术栈 / Tech Stack
+## 技术栈 / Tech Stack
 
 **后端 / Backend**
 
@@ -94,7 +94,7 @@
 
 ---
 
-## 🚀 快速开始 / Getting Started
+## 快速开始 / Getting Started
 
 ### 环境要求 / Requirements
 
@@ -132,7 +132,7 @@ npm run dev
 
 ---
 
-## 🗂️ 项目结构 / Project Structure
+## 项目结构 / Project Structure
 
 ```
 backend/
@@ -157,16 +157,16 @@ docs/screenshots/       # 界面截图
 
 ---
 
-## 👤 作者 / Author
+## 作者 / Author
 
 **Li Wenhao** · [University of Aberdeen](https://www.abdn.ac.uk/)
 
-> 📫 联系方式 / Contact：[13798873528@163.com](mailto:13798873528@163.com) · [GitHub](https://github.com/Ternat) · [LinkedIn](https://linkedin.com/in/wenhao-li-4b9769437)
+> 联系方式 / Contact：[13798873528@163.com](mailto:13798873528@163.com) · [GitHub](https://github.com/Ternat) · [LinkedIn](https://linkedin.com/in/wenhao-li-4b9769437)
 
 ---
 
-## 📄 许可 / License
+## 许可 / License
 
 本项目代码采用 [MIT License](LICENSE) 开源。*This project is open-sourced under the [MIT License](LICENSE).*
 
-> ⚠️ 第三方组件（如 YOLOv8、fast-plate-ocr 等）遵循其各自的许可证。*Third-party components (e.g. YOLOv8, fast-plate-ocr) are subject to their own licenses.*
+> 第三方组件（如 YOLOv8、fast-plate-ocr 等）遵循其各自的许可证。*Third-party components (e.g. YOLOv8, fast-plate-ocr) are subject to their own licenses.*
