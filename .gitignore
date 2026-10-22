@@ -1,5 +1,6 @@
 # ===== Python =====
 __pycache__/
+.pytest_cache/
 *.py[cod]
 *$py.class
 .venv/
@@ -15,6 +16,7 @@ env/
 backend/logs/
 backend/uploads/
 backend/parking.db
+backend/pricing_config.json
 *.db
 *.sqlite3
 
